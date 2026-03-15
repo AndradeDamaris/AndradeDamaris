@@ -1,6 +1,6 @@
 ## Hello! Sou a Dâmaris ☕
 
-  Sou estudante de Ciência da Computação do IF Goiano e apaixonada por tecnologia e em como códigos resolvem problemas.
+  Sou estudante de Ciência da Computação no IF Goiano e apaixonada por tecnologia e em como códigos resolvem problemas.
 
 Atualmente focada em:
 - 🌱 JavaScript
